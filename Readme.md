@@ -20,7 +20,7 @@
     <figcaption>Github logo</figcaption>
 </figure>
 
-## Zwei Funktionen
+## Funktionen
 
 ### Mein Wochenplan (Tabelle)
 
@@ -30,7 +30,14 @@
 | Sport  | Spazierengehen |        Sport|         Spazierengehen |           Freunde treffen |
 | Kochen   |       Auf den Spielplatz gehen mit meinem Sohn   |    Auf den Spielplatz gehen mit meinem Sohn |  Auf den Spielplatz gehen mit meinem Sohn|  Auf den Spielplatz gehen mit meinem Sohn | Kochen
 
-### versuchen in HTML 
+### Was ist Github?
+
+[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://www.youtube.com/watch?v=pBy1zgt0XPc)
+
+
+
+
+### Versuchen Wir es in HTML 
 
 ```HTML
 <h1>Senda Zidi</h1>
