@@ -11,10 +11,14 @@
 [Ein Link zu einer Website, die ich oft besuche](https://www.welt.de/)
 
 ## Bild
-![](Github.svg.png)
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.applivery.com%2Fmacos-app-catalog%2Fgithub-desktop-app-for-macos%2F&psig=AOvVaw2nFb_TutV_C1xEByCg8EBW&ust=1732976652557000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKio4affgYoDFQAAAAAdAAAAABAE)
 
+
+<figure>
+    <img src="https://www.bleepstatic.com/content/hl-images/2022/04/08/GitHub__headpic.jpg"
+         alt="Github">
+    <figcaption>Github logo</figcaption>
+</figure>
 
 ## Zwei Funktionen
 
