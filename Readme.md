@@ -13,6 +13,8 @@
 ## Bild
 ![](Github.svg.png)
 
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.applivery.com%2Fmacos-app-catalog%2Fgithub-desktop-app-for-macos%2F&psig=AOvVaw2nFb_TutV_C1xEByCg8EBW&ust=1732976652557000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKio4affgYoDFQAAAAAdAAAAABAE)
+
 
 ## Zwei Funktionen
 
